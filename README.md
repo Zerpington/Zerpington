@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zerpington
 - 👀 I’m interested in Full-stack
 - 🌱 I’m currently doing a roadmap to becoming an RoR Senior Dev
+- 🤖 Learning to code with Claude AI
 - 📫 to follow
 
 <!---
