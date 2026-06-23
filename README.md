@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zerpington
 - 👀 I’m interested in Full-stack
-- 🌱 I’m currently learning UI/UX design
+- 🌱 I’m currently doing a roadmap to becoming an RoR Senior Dev
 - 📫 to follow
 
 <!---
